@@ -4,7 +4,6 @@ Created on Wed Jan 30 15:49:20 2019
 
 @author: AK115190
 """
-#OutputSpoiler Info
 
 from odbAccess import *
 from abaqusConstants import *
